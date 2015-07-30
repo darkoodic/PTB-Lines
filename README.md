@@ -14,5 +14,8 @@ We welcome contributions and revisions to this code, as it could definitely be o
 2. <a href="https://github.com/darkoodic/PTB-Lines/archive/master.zip">Download</a> or clone the repo (`git clone https://github.com/darkoodic/PTB-Lines.git`). This will give you all three script types that you can see below.
 3. Open the script MATLAB, run the green arrow and enjoy. If there are any issues, we recommend going into the config.txt file and changing `debug` to "on". This will allow you to easily see errors in the console. 
 
+## Using this script with kids?
+We are currently in the process of making a second version that can be used with kids. Stay tuned. 
+
 ## License
 Code released under the MIT license.
