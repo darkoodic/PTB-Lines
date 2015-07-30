@@ -1,0 +1,15 @@
+ptblines   configFile
+dateEdited  300715
+debug	off
+pracSN	999
+isi	500
+defaultLengthPx 100
+ratios  [2.0,1.50,1.20,1.10]
+orientations    [22,66,110,132]
+trialsPerBin	20
+color1rgb	[255,255,0]
+color2rgb	[0,0,255]
+color1string	yellow
+color2string	blue
+key1	z
+key2	m
