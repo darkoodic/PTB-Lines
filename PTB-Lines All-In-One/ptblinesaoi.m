@@ -1,11 +1,10 @@
-% PTB-Lines (GitHub Version)
+% PTB-Lines All-In-One (GitHub Version)
 % Darko Odic (http://odic.psych.ubc.ca)
 % University of British Columbia
 
-% Last Update: July/30/2015
+% Last Update: Sep/6/2015
 % Please read README.md before using. 
-
-function [] = ptblines()
+function [] = ptblinesaoi()
     HideCursor;
     clear all;
     warning off;
