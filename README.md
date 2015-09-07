@@ -16,10 +16,10 @@ We welcome contributions and revisions to this code, as it could definitely be o
 3. Open one of the two scripts in MATLAB, run the green arrow and enjoy. If there are any issues, we recommend going into the config.txt file and changing `debug` to "on". This will allow you to easily see errors in the console. 
 
 ## Versions
-There are three different versions of the script:
+There are two different versions of the script:
 
 1. **PTB-Lines All-In-One** (`ptblines-aoi.m`): To generate and immediately display line-length displays following various parameters, like changes in orientation, ratio, etc. This is the most common way for testing adults and children and generally has everything you need. Further information on this script is available in that folder's README.md file. 
 2. **PTB-Lines Kids** (`ptblines-kids.m`): This version of the AOI script makes things simpler for testing children aged 3 - 10 by introducing boxes, cartoon characters, etc. Further information on this script is available in that folder's README.md file. 
 
 ## License
-Code released under the MIT license.
+Code released under the <a href="https://opensource.org/licenses/MIT">MIT license</a>.
